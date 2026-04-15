@@ -1,0 +1,1 @@
+console.log('# Output: You chose rock. Computer chose scissors. You win!')
